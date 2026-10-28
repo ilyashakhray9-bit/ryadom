@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="560" viewBox="0 0 580 560" fill="none">
+<defs><linearGradient id="arch" x1="270" y1="15" x2="270" y2="510" gradientUnits="userSpaceOnUse"><stop stop-color="#e8eff7"/><stop offset="1" stop-color="#dee9f2"/></linearGradient><linearGradient id="shirt" x1="209" y1="246" x2="253" y2="364" gradientUnits="userSpaceOnUse"><stop stop-color="#aca1cd"/><stop offset="1" stop-color="#9a90bd"/></linearGradient><linearGradient id="pants" x1="346" y1="340" x2="300" y2="456" gradientUnits="userSpaceOnUse"><stop stop-color="#7c8b9f"/><stop offset="1" stop-color="#66768d"/></linearGradient></defs>
+<path d="M80 461V230C80 114 157 38 282 38c121 0 207 77 207 192v231H80Z" fill="url(#arch)"/>
+<path d="M112 443V234c0-102 67-166 171-166 101 0 174 67 174 166v209" stroke="#f9fbfd" stroke-width="1.3"/>
+<circle cx="370" cy="153" r="47" fill="#fcf8ec"/>
+<path d="M355 153c-5 14-18 26-33 31a47 47 0 0 0 86-31 47 47 0 0 1-53 0Z" fill="#f4eedf" opacity=".65"/>
+<ellipse cx="284" cy="465" rx="226" ry="31" fill="#dce6ed"/>
+<ellipse cx="286" cy="467" rx="138" ry="12" fill="#b7c6d5" opacity=".35"/>
+<path d="M102 456c-6-44-2-87-21-122m19 58c-22-2-31-14-32-29 17 2 28 13 32 29m-3-16c15-8 23-22 18-36-15 7-21 19-18 36m-8-26c-18 0-29-10-32-24 17 0 26 8 32 24m15 66c18-4 26-15 26-31-16 2-27 14-26 31m-3 18c-19 0-35-11-39-26 21-2 35 10 39 26" stroke="#849b93" stroke-width="2.4" stroke-linecap="round" fill="#b2c3b6"/>
+<path d="M464 455c-1-41 12-64 21-87m-13 56c19 1 32-10 37-25-17-2-32 8-37 25m6-23c-16-7-22-18-20-31 15 3 21 17 20 31" stroke="#879b92" stroke-width="2" stroke-linecap="round" fill="#b7c9bc"/>
+<g transform="translate(486 363)"><path d="M0 0c-29-1-20-24-8-13-8-27 18-27 13-4 23-19 33 7 10 11 24 14 2 30-9 12-7 25-30 9-14-6C-30 6-20-13 0 0Z" fill="#b3a3c9"/><circle cx="2" cy="2" r="6" fill="#efe8d6"/></g>
+<path d="M150 382h272" stroke="#a9a0a3" stroke-width="12" stroke-linecap="round"/>
+<path d="m170 388-10 73m245-73 8 73" stroke="#9e969b" stroke-width="8" stroke-linecap="round"/>
+<path d="M158 337h254v22H158z" fill="#c1b4b5"/>
+<path d="M173 336v40m224-40v40" stroke="#a69b9e" stroke-width="7"/>
+<!-- Two stylised people sitting together, illustrated without a photographic claim. -->
+<path d="M224 351c5 8 20 23 39 37l-20 59 24 6 29-66c3-13-19-32-29-40" fill="#555f7a"/>
+<path d="M206 345c-8 16-12 26-6 45l13 57h24l-5-59 23-32" fill="#606b85"/>
+<path d="m214 442-2 18c-1 5 1 8 7 8h27c7 0 9-6 3-10l-14-15" fill="#f5f1e8"/>
+<path d="m245 443-5 16c-1 5 1 8 6 9l27 4c8 1 12-4 7-9l-14-15" fill="#eae7e1"/>
+<path d="M202 251c15-11 42-13 57 0 11 19 15 52 12 99-18 14-53 13-73-1-3-36-5-73 4-98Z" fill="url(#shirt)"/>
+<path d="M222 227v24c7 8 16 8 22 0v-25" fill="#c59079"/>
+<ellipse cx="231" cy="209" rx="25" ry="31" transform="rotate(-8 231 209)" fill="#d9ad94"/>
+<path d="M208 223c-15-6-13-32-3-44 12-14 39-13 49 1 4 5 5 13 3 19-13 0-21-6-26-15-4 16-11 15-16 17-8 4 3 17-7 22Z" fill="#666075"/>
+<path d="M208 263c-6 18-13 47-8 55 12 10 30 17 47 20" stroke="#a398c3" stroke-width="22" stroke-linecap="round"/>
+<path d="m246 337 16 2" stroke="#d7a991" stroke-width="12" stroke-linecap="round"/>
+<path d="M252 267c11 14 13 35 26 44l27-8" stroke="#a398c3" stroke-width="19" stroke-linecap="round"/>
+<path d="m300 304 12-3" stroke="#d7a991" stroke-width="11" stroke-linecap="round"/>
+<path d="M310 344c-18 4-23 20-17 43l22 60 23-5-12-62 30-21" fill="url(#pants)"/>
+<path d="M363 341c15 18 9 34-1 48l-14 54-23-3 7-67-15-12" fill="#75869c"/>
+<path d="m315 441-3 16c-1 6 2 9 8 9h27c6 0 9-5 3-9l-15-17" fill="#eeece5"/>
+<path d="m328 438-3 19c-1 5 2 8 8 8h32c8 0 10-6 4-10l-23-15" fill="#f9f5ec"/>
+<path d="M311 249c14-7 33-6 48 3 12 20 20 50 20 91-17 20-54 22-77 4-3-37-4-70 9-98Z" fill="#e9e5d9"/>
+<path d="M324 229v22c6 9 14 10 20 1v-22" fill="#b88167"/>
+<ellipse cx="333" cy="210" rx="25" ry="31" transform="rotate(6 333 210)" fill="#cb9779"/>
+<path d="M309 206c-10-5-9-18 0-27 2-15 20-19 31-12 14-2 28 13 26 27 4 12-4 27-9 28l-2-24c-8 2-19-3-25-13-3 13-16 14-21 12Z" fill="#4f5964"/>
+<path d="M357 264c9 23 15 46 7 54-12 9-27 15-45 20" stroke="#dddacd" stroke-width="21" stroke-linecap="round"/>
+<path d="m320 337-15 4" stroke="#cb9779" stroke-width="12" stroke-linecap="round"/>
+<path d="M315 266c-6 18-7 35-16 45" stroke="#dddacd" stroke-width="20" stroke-linecap="round"/>
+<path d="M147 184c6-7 12-10 20-10m-16-21 4 10m-22 10 10 3" stroke="#a8a1bc" stroke-width="2.5" stroke-linecap="round"/>
+<path d="m420 279 5-9 5 9 9 5-9 5-5 9-5-9-9-5 9-5Z" fill="#a7afc3"/>
+<path d="m127 453 4-7 4 7 7 4-7 4-4 7-4-7-7-4 7-4Z" fill="#f8f5ed"/>
+</svg>
